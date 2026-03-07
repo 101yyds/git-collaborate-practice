@@ -3,3 +3,4 @@
 3. 支付方式：支持微信和支付宝
 4.dev-C and dev-A
 5.funcC and funcA
+crash
